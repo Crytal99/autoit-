@@ -10,3 +10,4 @@
 
 ; Script Start - Add your code below here
 PixelSearch(1706, 400,0xFFFFFF);
+test 
